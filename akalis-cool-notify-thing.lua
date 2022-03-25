@@ -1,3 +1,4 @@
+-- Credits to Akali for the hot notifaction system :)
 local TweenService = game:GetService("TweenService");
 local RunService = game:GetService("RunService");
 local TextService = game:GetService("TextService");
